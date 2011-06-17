@@ -1,4 +1,5 @@
-// line follower robot. sensor 1 has threshold 75 and sensor 2 has 25
+//line follower robot made by darsh shah
+//sensor 1 has threshold 75 and sensor 2 has 25
 #include<avr/io.h>
 #include<compat/deprecated.h>
 #include<avr/delay.h>
